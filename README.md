@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TANMOY-PRAMANIK
-- 👀 I’m interested in DATA SCIENCE.
-- 🌱 I’m currently learning ADVANCE PYTHON...
+- 👀 I’m interested in  software developing & machine learning & data science.
+- 🌱 I’m currently learning ADVANCE PYTHON and ai tools...
+-i have in depth  knowledge on my SQL 
 - 💞️ I’m looking to collaborate on AI PROJECTS..
 
 <!---
